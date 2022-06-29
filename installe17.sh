@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/bash
 
 # REPOSITORIES
 xbps-install -Svy void-repo-multilib void-repo-nonfree
