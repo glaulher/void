@@ -16,7 +16,7 @@ xbps-install -Svy alsa-plugins-pulseaudio paprefs pavucontrol pipewire alsa-util
 xbps-install -Svy  NetworkManager network-manager-applet ntp wget
 
 # DESKTOP ENVIRONMENT
-xbps-install -Svy lightdm lightdm-gtk3-greeter enlightenment xdg-utils xdg-desktop-portal xdg-desktop-portal-gtk xdg-desktop-portal-kde xdg-user-dirs xdg-user-dirs-gtk libappindicator AppStream
+xbps-install -Svy lightdm lightdm-gtk3-greeter enlightenment terminology xdg-utils xdg-desktop-portal xdg-desktop-portal-gtk xdg-desktop-portal-kde xdg-user-dirs xdg-user-dirs-gtk libappindicator AppStream
 
 # LOOK AND FEEL
 xbps-install -Svy adwaita-icon-theme Adapta gnome-themes-standard
