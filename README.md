@@ -1,4 +1,4 @@
 # void
 install void
 
-wget -qO- https://bityli.com/iwKuNB | bash
+wget -qO- https://tinyurl.com/22yhgthc | bash
