@@ -29,7 +29,7 @@ xbps-install -Svy ntfs-3g exfat-utils fuse-exfat gvfs-afc gvfs-mtp udisks2
 xbps-install -Svy elogind dbus-elogind 
 
 # DEVELOPMENT
-xbps-install -Svy git mousepad vscode
+xbps-install -Svy git mousepad vscode nano
 
 # ARCHIVE SOFTWARE
 xbps-install -Svy dtrx p7zip
