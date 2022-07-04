@@ -47,3 +47,7 @@ ln -s /etc/sv/dbus /var/service
 ln -s /etc/sv/elogind /var/service
 ln -s /etc/sv/NetworkManager /var/service
 ln -s /etc/sv/lightdm /var/service
+
+# GROUP SUDO
+addgroup sudo
+
