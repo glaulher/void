@@ -42,3 +42,8 @@ xbps-install -Svy htop bash-completion unzip
 # INTERNET
 xbps-install -Svy firefox
 
+# SERVICES
+ln -s /etc/sv/dbus /var/service
+ln -s /etc/sv/elogind /var/service
+ln -s /etc/sv/NetworkManager /var/service
+ln -s /etc/sv/lightdm /var/service
